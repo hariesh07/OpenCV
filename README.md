@@ -1,5 +1,21 @@
-# OpenCV
+## OpenCV
+FS'tival 22
 This repository contains the openCV demo tool and the project.
+
+Team name : Cringe Foundation
+
+Tool name: openCV
+
+Team members:
+
+1.Arsha Fahima
+
+2.Hariesh
+
+3.Kader S Nafeez
+
+
+### About the project and tool:
 
 The code is inside the code folder.
 The project demo video is in the demo_vid folder.
